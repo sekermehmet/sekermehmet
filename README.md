@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">Cukurova University- E.E Eng. | Tarsus University. Master | TÜBİTAK 3501 ~ Antenna Design & Mikrowave Imaging | Deep Learning</h3>
+<h3 align="center">Cukurova University - E.E Eng. | Tarsus University - Master | TÜBİTAK 3501 ~ Antenna Design & Mikrowave Imaging | Deep Learning</h3>
 
 - 🔭 I’m currently working on **my Master thesis**
 
